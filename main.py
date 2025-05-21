@@ -2,7 +2,6 @@
 import streamlit as st
 
 st.set_page_config(layout="centered")
-st.title("🎉 Happy Birthday!")
 
 # 圖片順序
 pages = ['images/page1.png', 'images/page2.png', 'images/page3.png', 'images/page4.png', 'images/page5.png', 'images/page6.png', 'images/page7.png']
